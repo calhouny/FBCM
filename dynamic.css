@@ -1,0 +1,9 @@
+/* BEGIN custom_css_box */
+/* MANUAL OVERRIDES AND CUSTOM CSS */
+
+/* for gray in about section */
+#client{display:none;}
+
+/* for pricing table */
+#pricing-table{display:none;}
+/* END custom_css_box */
